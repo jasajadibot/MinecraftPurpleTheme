@@ -154,12 +154,12 @@ div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGr
 }
 
 div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
-  background-image: url("https://angelillo15.es/resources/img/background.png");
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  background-color: transparent;
+  background-image: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
+  background-attachment: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
+  background-repeat: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
+  background-position: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
+  background-size: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
+  background-color: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
