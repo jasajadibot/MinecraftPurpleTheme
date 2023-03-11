@@ -1,10 +1,10 @@
 html {
   background-image: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  background-color: transparent;
+  background-attachment: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
+  background-repeat: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
+  background-position: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
+  background-size: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
+  background-color: url("https://i.ibb.co/4RGhpn6/IMG-20230309-171719.jpg");
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
